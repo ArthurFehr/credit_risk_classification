@@ -1,8 +1,8 @@
 # Credit Risk Classification
 
-## Task
+## Objective
 
-The task is to develop a model to predict the credit risk of loans (good or bad) and to derive meaningful insights from the data.
+My main goal here is to build a classification model to predict the credit risk of loans (good or bad) and to derive meaningful insights from the data. 
 
 ## Dataset Description
 
